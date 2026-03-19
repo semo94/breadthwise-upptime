@@ -4,19 +4,19 @@
     "url": "https://api.breadthwise.ca/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.breadthwise.ca.ico",
     "slug": "breadthwise-api",
-    "status": "down",
-    "uptime": "98.06%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.06%",
-    "time": 309,
-    "timeDay": 309,
-    "timeWeek": 309,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "96.04%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2026-03-19": 21
+      "2026-03-19": 43
     }
   },
   {
