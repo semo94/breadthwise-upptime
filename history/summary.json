@@ -4,7 +4,7 @@
     "url": "https://api.breadthwise.ca/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.breadthwise.ca.ico",
     "slug": "breadthwise-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
     "uptimeDay": "97.97%",
     "uptimeWeek": "97.22%",
