@@ -1,7 +1,7 @@
 url: https://api.breadthwise.ca/health
-status: up
-code: 200
-responseTime: 375
-lastUpdated: 2026-08-19T23:26:48.194Z
+status: down
+code: 503
+responseTime: 121
+lastUpdated: 2026-08-20T16:14:51.364Z
 startTime: 2026-03-18T21:21:58.658Z
 generator: Upptime <https://github.com/upptime/upptime>
